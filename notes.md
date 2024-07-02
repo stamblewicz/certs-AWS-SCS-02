@@ -108,39 +108,39 @@ not be asked about the steps to set up replication for an S3 bucket, but the can
 configuring an S3 bucket policy. 
 
 ## Management and Governance: 
-• [AWS Audit Manager](https://tutorialsdojo.com/aws-audit-manager/) 
-• [AWS CloudTrail](https://tutorialsdojo.com/aws-cloudtrail/) 
+- [AWS Audit Manager](https://tutorialsdojo.com/aws-audit-manager/) 
+- [AWS CloudTrail](https://tutorialsdojo.com/aws-cloudtrail/) 
 - -- labs:
 - -- [Triggering Events with CloudTrail Logs](https://learn.acloud.guru/handson/c80bd323-11ca-49a6-9028-96752e8f21fd)
 - -- [Monitoring, Auditing, and Logging Users and Resource Usage in AWS IAM](https://learn.acloud.guru/handson/9c173560-f318-4a3a-97fa-341bdbdc76a3)
 - -- [Using AWS Config and CloudTrail](https://learn.acloud.guru/handson/8a520336-4709-4e12-8636-0d68e2e00273)
-• [Amazon CloudWatch](https://tutorialsdojo.com/amazon-cloudwatch/) 
+- [Amazon CloudWatch](https://tutorialsdojo.com/amazon-cloudwatch/) 
 -  [CloudTrail vs CloudWatch](https://tutorialsdojo.com/aws-cloudtrail-vs-amazon-cloudwatch/)
-• [AWS Config](https://tutorialsdojo.com/aws-config/) 
+- [AWS Config](https://tutorialsdojo.com/aws-config/) 
 - -- labs:
 - -- [Setting up Automatic Resource Remediation with AWS Config](https://learn.acloud.guru/handson/bd0330c4-ec18-46b5-b673-3f02eb7cd15c)
 - -- [Auditing Resource Compliance with AWS Config](https://learn.acloud.guru/handson/b0e842b6-2254-4a4e-be50-14e01bf8233b)
-• [AWS Organizations ](https://tutorialsdojo.com/aws-organizations/)
-• [AWS Systems Manager](https://tutorialsdojo.com/aws-systems-manager/) 
+- [AWS Organizations ](https://tutorialsdojo.com/aws-organizations/)
+- [AWS Systems Manager](https://tutorialsdojo.com/aws-systems-manager/) 
 - -- labs:
 - -- [Creating an IAM Role and Configuring an EC2 Instance for AWS Systems Manager via the AWS Management Console](https://learn.acloud.guru/handson/41fa20fe-7199-4a0a-a02c-e86fb26613c8)
-• [AWS Trusted Advisor](https://tutorialsdojo.com/aws-trusted-advisor/)
+- [AWS Trusted Advisor](https://tutorialsdojo.com/aws-trusted-advisor/)
 
 ## Networking and Content Delivery: 
-• [Amazon Detective](https://tutorialsdojo.com/amazon-detective/)
+- [Amazon Detective](https://tutorialsdojo.com/amazon-detective/)
 - -- labs:
 - -- [Detecting Security Issues Using GuardDuty](https://learn.acloud.guru/handson/f3a6e65f-261a-4337-816f-5875ed4dd3e7)
 - -- [Adding Dialog to an Alexa Skill](https://learn.acloud.guru/handson/09927777-f170-4502-8c4d-69d3a244a651) 
-• [AWS Firewall Manager](https://tutorialsdojo.com/aws-firewall-manager/)
+- [AWS Firewall Manager](https://tutorialsdojo.com/aws-firewall-manager/)
 - -- labs:
 - -- [Creating and Configuring a WAF](https://learn.acloud.guru/handson/02832161-9dfc-4c5c-8a1b-dd290dbc0050)
 - -- [Configuring Centralized Access to the Internet](https://learn.acloud.guru/handson/a0663149-5b0a-4f83-90c8-056f42acb58f)  
 - -- [Securing an Application with Multiple AWS Services](https://learn.acloud.guru/handson/fb220576-483e-4b0b-809d-3c02c62e4223)  
-• [AWS Network Firewall](https://tutorialsdojo.com/aws-network-firewall/)
+- [AWS Network Firewall](https://tutorialsdojo.com/aws-network-firewall/)
 - -- labs:
 - -- [Configuring an AWS Network Firewall](https://learn.acloud.guru/handson/06ea5cd8-8eb8-4e3a-a679-715f820ee637)
 - -- [Implementing AWS Network Firewall](https://learn.acloud.guru/handson/76117bc4-bdb2-4ff6-bc89-551076a52e4f7) 
-• [AWS Security Hub](https://tutorialsdojo.com/aws-security-hub/) 
+- [AWS Security Hub](https://tutorialsdojo.com/aws-security-hub/) 
 - -- labs:
 - -- [Using AWS Security Hub to Analyze an AWS Account](https://learn.acloud.guru/handson/c084edc8-8e1f-4dfe-9c89-237a229f61d0) --> attempted 16th June
 - -- [Automating Findings Identified by AWS Security Hub](https://learn.acloud.guru/handson/5b20ca8a-f5d0-479a-8519-719d8d89eddd) 
@@ -148,8 +148,8 @@ configuring an S3 bucket policy.
 - -- [Implementing AWS Security Hub](https://learn.acloud.guru/handson/0f3e45ce-4103-4c1e-89c6-20e9247383fd) 
 - -- [Proactive Security with AWS Security Hub](https://learn.acloud.guru/handson/1072865a-7d87-4ba6-9a6f-d67465b5dd0f)
 - -- [Configuring Amazon Inspector with Systems Manager to Assess Application Compliance](https://learn.acloud.guru/handson/609a2394-0815-487e-bb8a-b8f8155c6d4f) 
-• [AWS Shield](https://tutorialsdojo.com/aws-shield/) 
-• [Amazon VPC](https://tutorialsdojo.com/amazon-vpc/) 
+- [AWS Shield](https://tutorialsdojo.com/aws-shield/) 
+- [Amazon VPC](https://tutorialsdojo.com/amazon-vpc/) 
 -  o [VPC endpoints](https://tutorialsdojo.com/vpc-interface-endpoint-vs-gateway-endpoint-in-aws/) 
 - - - - labs:
 - - - - [Create a VPC Endpoint and S3 Bucket in AWS](https://learn.acloud.guru/handson/37331c72-e3f1-4ded-9607-61d993fbb5a5)
@@ -160,24 +160,24 @@ configuring an S3 bucket policy.
 - - - - [Troubleshooting AWS Network Connectivity: Security Groups and NACLs](https://learn.acloud.guru/handson/cffb7f13-1c46-45cb-886a-f0bb12ff038c) 
 -  o Security groups 
 -  o Network Access Analyzer 
-• [AWS WAF](https://tutorialsdojo.com/aws-waf/)
+- [AWS WAF](https://tutorialsdojo.com/aws-waf/)
 extras: [IP Blocking: Use AWS WAF or NACL?](https://tutorialsdojo.com/ip-blocking-use-aws-waf-or-nacl/)
 
 ## Security, Identity, and Compliance: 
-• [AWS Certificate Manager (ACM)](https://tutorialsdojo.com/aws-certificate-manager/) 
+- [AWS Certificate Manager (ACM)](https://tutorialsdojo.com/aws-certificate-manager/) 
 - -- labs:
 - -- [Configuring a Custom Domain with Cognito](https://learn.acloud.guru/handson/0b77909a-2844-461f-b865-60229e614ad4)
-• [AWS CloudHSM ](https://tutorialsdojo.com/aws-cloudhsm/)
-• [AWS Directory Service ](https://tutorialsdojo.com/aws-directory-service/)
-• [Amazon GuardDuty]()
+- [AWS CloudHSM ](https://tutorialsdojo.com/aws-cloudhsm/)
+- [AWS Directory Service ](https://tutorialsdojo.com/aws-directory-service/)
+- [Amazon GuardDuty]()
 - -- labs:
 - -- [Implementing Amazon GuardDuty and Amazon EventBridge](https://learn.acloud.guru/handson/ec10e337-901c-4524-9d3c-d78eefd921e7)
 - -- [Detecting Security Issues Using GuardDuty](https://learn.acloud.guru/handson/f3a6e65f-261a-4337-816f-5875ed4dd3e7)
 
-• [AWS Identity and Access Management (IAM)](https://tutorialsdojo.com/aws-identity-and-access-management-iam/) 
-• [Amazon Inspector](https://tutorialsdojo.com/amazon-inspector/) 
-• [AWS Key Management Service (AWS KMS) ](https://tutorialsdojo.com/aws-key-management-service-aws-kms/)
+- [AWS Identity and Access Management (IAM)](https://tutorialsdojo.com/aws-identity-and-access-management-iam/) 
+- [Amazon Inspector](https://tutorialsdojo.com/amazon-inspector/) 
+- [AWS Key Management Service (AWS KMS) ](https://tutorialsdojo.com/aws-key-management-service-aws-kms/)
 - -- labs:
 - -- [AWS Security Essentials - KMS Integration with S3](https://learn.acloud.guru/handson/e4e6a251-06af-4046-992b-84f0ece1d3fb)
-• [Amazon Macie](https://tutorialsdojo.com/amazon-macie/) 
-• AWS Single Sign-On
+- [Amazon Macie](https://tutorialsdojo.com/amazon-macie/) 
+- AWS Single Sign-On
