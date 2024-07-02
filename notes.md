@@ -6,7 +6,9 @@ Below writeup is based on [Exam Prep Standard Course: AWS Certified Security - S
 
 ### Additional Resources
 [AWS Security and Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/introduction.html)
+
 [AWS Security Finding Format (ASFF)](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html)
+
 [Required attributes](https://docs.aws.amazon.com/securityhub/latest/userguide/asff-required-attributes.html)
 [Playbooks](https://docs.aws.amazon.com/solutions/latest/automated-security-response-on-aws/playbooks-1.html)
 [Creating your own runbooks](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-documents.html)
