@@ -32,7 +32,7 @@ Review these materials to learn more about the topics covered in this exam domai
 
 
 ##  Infrastructure Security
-![AWS managed services that detect threats](image.png)
+![AWS managed services that detect threats](resources/image.png)
 
 ### Additional Resources
 -  [AWS Well-Architected Framework’s Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/design-principles.html)
