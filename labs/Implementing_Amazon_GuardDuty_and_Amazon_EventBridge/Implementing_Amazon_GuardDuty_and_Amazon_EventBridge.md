@@ -7,7 +7,7 @@ Globomantics is a global healthcare organization who have recently moved their k
 Having considered several options, you have decided to recommend that Globomantics implement Amazon GuardDuty.
 
 In this lab, you will:
-![alt text](image.png)
+![alt text](../resources/Implementing_Amazon_GuardDuty_and_Amazon_EventBridge_image_1.png)
 
 ## Create an SNS topic with an email subscriber.
 Enable Amazon GuardDuty.
