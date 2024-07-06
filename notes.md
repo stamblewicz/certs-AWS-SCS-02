@@ -184,6 +184,13 @@ extras: [IP Blocking: Use AWS WAF or NACL?](https://tutorialsdojo.com/ip-blockin
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Nutshell exam breakdown
+
+## Exam Guide - what to read and understand
+[AWS Security Documentation](https://docs.aws.amazon.com/security/)
+[AWS Well-Architected - Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/)
+[Best Practices for Security, Identity, & Compliance](https://aws.amazon.com/architecture/security-identity-compliance/)
+[AWS Best Practices for DDoS Resiliency](https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/aws-best-practices-ddos-resiliency.html)
+
 ## Key AWS Services to Master - don't go, before you know :)
 Focus your studies on truly understanding these services inside and out:
 - Amazon IAM - Master IAM policies, identity policies vs resource policies, and cross-account access patterns (policy evaluation logic). Know when and how to use IAM groups, roles, identity pools, SAML. There is no excuse here; if you do not feel comfortable with IAM, do not go further. Know well how the 'Condition' statement works in the policy, what types of statements can be used. Understand the difference between identity policy and resource policies, when to use which.
