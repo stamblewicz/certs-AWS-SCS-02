@@ -151,13 +151,13 @@ configuring an S3 bucket policy.
 - [AWS Shield](https://tutorialsdojo.com/aws-shield/) 
 - [Amazon VPC](https://tutorialsdojo.com/amazon-vpc/) 
 -  o [VPC endpoints](https://tutorialsdojo.com/vpc-interface-endpoint-vs-gateway-endpoint-in-aws/) 
-- - - - labs:
-- - - - [Create a VPC Endpoint and S3 Bucket in AWS](https://learn.acloud.guru/handson/37331c72-e3f1-4ded-9607-61d993fbb5a5)
-- - - - [AWS VPC Endpoints for S3](https://learn.acloud.guru/handson/9256ae5b-e266-40a5-8f6c-5610aae4bac1) 
+       - labs:
+       - [Create a VPC Endpoint and S3 Bucket in AWS](https://learn.acloud.guru/handson/37331c72-e3f1-4ded-9607-61d993fbb5a5)
+       - [AWS VPC Endpoints for S3](https://learn.acloud.guru/handson/9256ae5b-e266-40a5-8f6c-5610aae4bac1) 
 -  o Network ACLs 
-- - - - labs:
-- - - - [Configuring a Basic VPC in AWS](https://learn.acloud.guru/handson/c30ef1d8-6dff-434d-a484-698027c13d53)
-- - - - [Troubleshooting AWS Network Connectivity: Security Groups and NACLs](https://learn.acloud.guru/handson/cffb7f13-1c46-45cb-886a-f0bb12ff038c) 
+       - labs:
+       - [Configuring a Basic VPC in AWS](https://learn.acloud.guru/handson/c30ef1d8-6dff-434d-a484-698027c13d53)
+       - [Troubleshooting AWS Network Connectivity: Security Groups and NACLs](https://learn.acloud.guru/handson/cffb7f13-1c46-45cb-886a-f0bb12ff038c) 
 -  o Security groups 
 -  o Network Access Analyzer 
 - [AWS WAF](https://tutorialsdojo.com/aws-waf/)
@@ -181,3 +181,29 @@ extras: [IP Blocking: Use AWS WAF or NACL?](https://tutorialsdojo.com/ip-blockin
 - -- [AWS Security Essentials - KMS Integration with S3](https://learn.acloud.guru/handson/e4e6a251-06af-4046-992b-84f0ece1d3fb)
 - [Amazon Macie](https://tutorialsdojo.com/amazon-macie/) 
 - AWS Single Sign-On
+
+----------------------------------------------------------------------------------------------------------------------------------------
+# Nutshell exam breakdown
+## Key AWS Services to Master - don't go, before you know :)
+Focus your studies on truly understanding these services inside and out:
+- Amazon IAM - Master IAM policies, identity policies vs resource policies, and cross-account access patterns (policy evaluation logic). Know when and how to use IAM groups, roles, identity pools, SAML. There is no excuse here; if you do not feel comfortable with IAM, do not go further. Know well how the 'Condition' statement works in the policy, what types of statements can be used. Understand the difference between identity policy and resource policies, when to use which.
+- AWS Key Management Service - Understand encryption key management including automatic vs manual rotation. Know when to use KMS vs CloudHSM.
+- Amazon S3 - Know S3 security features like object encryption, bucket policies, ACLs, cross-region replication.
+- Amazon VPC - Study VPC security concepts like security groups, NACLs, VPC endpoints, VPC peering. Know how to diagnose connectivity issues.
+- Amazon CloudWatch - Learn how to centralize logging and set event-driven alerts and automation.
+- Amazon Eventbridge - Learn how to work with data comming from various of AWS services and how to deal with them - messaging, auto-remediation.
+- AWS Organizations - A must have, especially the Service Control Policies
+- Amazon GuardDuty - Know what it can do, and how automate the remediation.
+- Amazon Inspector - Again, have a hands-on knowledge of implementation and remediation, on multiple platforms (EC2, ECR)
+
+## Other Important Services
+- Amazon CloudFront,
+- AWS WAF,
+- AWS Config,
+- AWS Lambda,
+- Amazon Cognito,
+- AWS Systems Manager,
+- AWS Secrets Manager,
+- Amazon Athena,
+- AWS Shield,
+- AWS CloudTrail,
