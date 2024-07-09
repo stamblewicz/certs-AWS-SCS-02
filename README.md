@@ -487,7 +487,7 @@ extras: [IP Blocking: Use AWS WAF or NACL?](https://tutorialsdojo.com/ip-blockin
 - -- labs:
 - -- [AWS Security Essentials - KMS Integration with S3](https://learn.acloud.guru/handson/e4e6a251-06af-4046-992b-84f0ece1d3fb)
 - [Amazon Macie](https://tutorialsdojo.com/amazon-macie/) 
-- AWS Single Sign-On
+- [AWS Single Sign-On now AWS IAM Identity Center]()
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Nutshell exam breakdown
